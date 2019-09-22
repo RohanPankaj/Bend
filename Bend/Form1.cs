@@ -310,7 +310,7 @@ namespace OSUBendingTestForm
         //_______________________________________________________________________________________Displaying Values to the Graphic User Interphase (GUI)___________________________________________________
 
 
-        public void GraphRegression()  //-- Code adapted from http://csharpexperiments.blogspot.com/2014/04/multivariate-linear-regression.html
+        public void GraphRegression()  //-- GraphRegression() Code adapted from http://csharpexperiments.blogspot.com/2014/04/multivariate-linear-regression.html
         // Name:GraphRegression
         //Description: Graphs the Linear Regression
         //Input: None but uses xValueList and yValueList variables
@@ -345,7 +345,7 @@ namespace OSUBendingTestForm
                 chart1.Series["Regression Line"].Points.AddXY(xValueList[i], yPrediction(xValueList[i], qrTheta));
             }
         }
-        public void GraphData() //-- Code adapted from http://csharpexperiments.blogspot.com/2014/04/multivariate-linear-regression.html
+        public void GraphData() //-- GraphData() Code adapted from http://csharpexperiments.blogspot.com/2014/04/multivariate-linear-regression.html
         //Name: GraphData
         //Description: convert the csv to a datatable and graph the data
         //Inputs: Nothing but using the xValueList and yValueList variables
