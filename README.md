@@ -5,4 +5,4 @@ An application for calculating and storing data for Bending Test Analysis. Creat
 
 ###Using Bend
 1. Launch The Application
- ![Logo](C:\Users\rohan\Desktop\openApplication.png)
+ ![Logo](https://raw.githubusercontent.com/RohanPankaj/Bend/master/READMEImages/openApplication.PNG)
