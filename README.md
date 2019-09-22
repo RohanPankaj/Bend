@@ -1,4 +1,4 @@
-# Bend(TM)
+# Bend&trade;
 ![Logo](https://raw.githubusercontent.com/RohanPankaj/Bend/master/READMEImages/newBendLogo.PNG)
 
 
