@@ -1,11 +1,11 @@
-# Bend
+# Bend(TM)
 ![Logo](https://raw.githubusercontent.com/RohanPankaj/Bend/master/READMEImages/newBendLogo.PNG)
 
 
-An application for calculating and storing data for Bending Test Analysis. Created in Collaboration with The Oregon State University College of Forestry Wood Science Innovation Center. Read Below to learn how to use and download Bend.
+An application for calculating and storing data for Bending Test Analysis. Created in Collaboration with The Oregon State University College of Forestry Wood Science Innovation Center. Read Below to learn how to use and download Bend. Refernece the License to Read about Using Bend(TM)  https://github.com/RohanPankaj/Bend/blob/master/LICENSE
 
 
-## Using Bend
+## Using Bend(TM)
 1. Launch The Application
  *![Step 1](https://raw.githubusercontent.com/RohanPankaj/Bend/master/READMEImages/openApplication.PNG)
 2. Import Your Data Folder -- Note that Bend only uses CSV Files
@@ -24,7 +24,7 @@ An application for calculating and storing data for Bending Test Analysis. Creat
   *![Step 1](https://raw.githubusercontent.com/RohanPankaj/Bend/master/READMEImages/step8.PNG)
 
 
-## DownLoading Bend
+## DownLoading Bend(TM)
 
 In order to Download Bend as an application you will first need Visual Studio Code Community Eddition wich can be downloaded here: https://visualstudio.microsoft.com/downloads/.
 
