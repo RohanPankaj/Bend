@@ -2,7 +2,7 @@
 ![Logo](https://raw.githubusercontent.com/RohanPankaj/Bend/master/READMEImages/newBendLogo.PNG)
 
 
-An application for calculating and storing data for Bending Test Analysis. Created in Collaboration with The Oregon State University College of Forestry Wood Science Innovation Center. Read Below to learn how to use and download Bend&trade;. Refernece the License to Read about Using Bend%trade; : https://github.com/RohanPankaj/Bend/blob/master/LICENSE
+An application for calculating and storing data for Bending Test Analysis. Created in Collaboration with The Oregon State University College of Forestry Wood Science Innovation Center. Read Below to learn how to use and download Bend&trade;. Refernece the License to Read about Using Bend&trade; : https://github.com/RohanPankaj/Bend/blob/master/LICENSE
 
 
 ## Using Bend&trade;
