@@ -1,0 +1,13 @@
+C:\Users\rohan\source\repos\OSUBendingTestForm\OSUBendingTestForm\bin\Debug\OSUBendingTestForm.exe.config
+C:\Users\rohan\source\repos\OSUBendingTestForm\OSUBendingTestForm\bin\Debug\OSUBendingTestForm.exe
+C:\Users\rohan\source\repos\OSUBendingTestForm\OSUBendingTestForm\bin\Debug\OSUBendingTestForm.pdb
+C:\Users\rohan\source\repos\OSUBendingTestForm\OSUBendingTestForm\obj\Debug\OSUBendingTestForm.csprojAssemblyReference.cache
+C:\Users\rohan\source\repos\OSUBendingTestForm\OSUBendingTestForm\obj\Debug\OSUBendingTestForm.Form1.resources
+C:\Users\rohan\source\repos\OSUBendingTestForm\OSUBendingTestForm\obj\Debug\OSUBendingTestForm.Properties.Resources.resources
+C:\Users\rohan\source\repos\OSUBendingTestForm\OSUBendingTestForm\obj\Debug\OSUBendingTestForm.csproj.GenerateResource.cache
+C:\Users\rohan\source\repos\OSUBendingTestForm\OSUBendingTestForm\obj\Debug\OSUBendingTestForm.csproj.CoreCompileInputs.cache
+C:\Users\rohan\source\repos\OSUBendingTestForm\OSUBendingTestForm\obj\Debug\OSUBendingTestForm.exe
+C:\Users\rohan\source\repos\OSUBendingTestForm\OSUBendingTestForm\obj\Debug\OSUBendingTestForm.pdb
+C:\Users\rohan\source\repos\OSUBendingTestForm\OSUBendingTestForm\bin\Debug\MathNet.Numerics.dll
+C:\Users\rohan\source\repos\OSUBendingTestForm\OSUBendingTestForm\bin\Debug\MathNet.Numerics.xml
+C:\Users\rohan\source\repos\OSUBendingTestForm\OSUBendingTestForm\obj\Debug\OSUBendingTestForm.csproj.CopyComplete
