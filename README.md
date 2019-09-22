@@ -26,6 +26,8 @@ An application for calculating and storing data for Bending Test Analysis. Creat
 
 ## DownLoading Bend&trade;
 
+First Download the leatest Version of Bend&trade;, which can be found here: https://github.com/RohanPankaj/Bend/releases. 
+
 In order to Download Bend as an application you will first need Visual Studio Code Community Eddition wich can be downloaded here: https://visualstudio.microsoft.com/downloads/.
 
 Once you have Visual Studio Code Commmunity under the Build Tab Select Publish. The setup wizard will now appear giving you instructions to publish the code to your system or FTP Server. For questions aboutl publishing refernce the Microsoft Guide: https://docs.microsoft.com/en-us/visualstudio/deployment/how-to-publish-a-clickonce-application-using-the-publish-wizard?view=vs-2019. 
