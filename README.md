@@ -32,7 +32,7 @@ In order to Download Bend as an application you will first need Visual Studio Co
 
 Once you have Visual Studio Code Commmunity under the Build Tab Select Publish. The setup wizard will now appear giving you instructions to publish the code to your system or FTP Server. For questions aboutl publishing refernce the Microsoft Guide: https://docs.microsoft.com/en-us/visualstudio/deployment/how-to-publish-a-clickonce-application-using-the-publish-wizard?view=vs-2019. 
 
-## Referencees
+## References
 
 The "Graph Data" and "Graph Regression methods" -  lines 313 to 365 of Form1.cs (Form1: https://github.com/RohanPankaj/Bend/blob/master/Bend/Form1.cs) was adapted from http://csharpexperiments.blogspot.com/2014/04/multivariate-linear-regression.html.
 
