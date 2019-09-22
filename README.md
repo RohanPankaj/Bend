@@ -1,5 +1,5 @@
 # Bend
-![Logo](https://raw.githubusercontent.com/RohanPankaj/Bend/master/READMEImages/Bend%20Logo.PNG)
+![Logo](https://raw.githubusercontent.com/RohanPankaj/Bend/master/READMEImages/newBendLogo.PNG)
 
 
 An application for calculating and storing data for Bending Test Analysis. Created in Collaboration with The Oregon State University College of Forestry Wood Science Innovation Center.
